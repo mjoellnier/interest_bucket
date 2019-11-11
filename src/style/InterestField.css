@@ -1,0 +1,12 @@
+.interestWrapper {
+  background: #09d3ac;
+  border-radius: 20px;
+  padding: 0 15px;
+  margin: 15px;
+  transition: all 350ms linear;
+  height: 15vh;
+}
+
+.interestWrapper:hover {
+  background: #197967;
+}
